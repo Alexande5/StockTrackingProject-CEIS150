@@ -1,0 +1,16 @@
+{
+    "Stock": [
+        {
+            "symbol": "TS",
+            "name": "TS-COOP",
+            "shares": 567000000.0,
+            "DataList": []
+        },
+        {
+            "symbol": "GRE-90",
+            "name": "Anime Studios Greate",
+            "shares": 45000000.0,
+            "DataList": []
+        }
+    ]
+}
